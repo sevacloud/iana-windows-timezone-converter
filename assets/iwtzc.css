@@ -1,0 +1,33 @@
+.iwtzc-wrap {
+  max-width: 720px;
+  margin: 1rem 0;
+}
+
+.iwtzc-select {
+  width: 100%;
+  max-width: 420px;
+  margin: 0.5rem 0 1rem;
+}
+
+.iwtzc-status {
+  margin: 0.5rem 0;
+  color: #444;
+}
+
+.iwtzc-results {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+}
+
+.iwtzc-results th,
+.iwtzc-results td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.iwtzc-results th {
+  width: 40%;
+  background: #f6f7f7;
+}
